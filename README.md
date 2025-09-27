@@ -5,7 +5,7 @@ A Python package for explainable AI (XAI) embeddings analysis, using perturbatio
 ## Installation
 
 ```bash
-pip install xai-embeddings
+pip install xaiembeddings
 ```
 
 ## Requirements for POS-PFI

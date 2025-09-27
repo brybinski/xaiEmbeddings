@@ -129,7 +129,7 @@ class POS_explainer(Explainer):
         )
 
     def subword_score(self, position, tokens, embeddings, sentence: str):
-
+        """Calculate the score for a subword token by considering the complete word it belongs to."""
         # Find the start of the subword
         subword_start = position
         while subword_start > 0 and tokens[subword_start].startswith("##"):
