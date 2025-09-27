@@ -25,5 +25,5 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/xai-embeddings"
-Repository = "https://github.com/yourusername/xai-embeddings"
+Homepage = "https://github.com/brybinski/xaiEmbeddings"
+Repository = "https://github.com/brybinski/xaiEmbeddings"
